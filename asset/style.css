@@ -152,9 +152,13 @@ header {
     position: fixed;
 }
 
-.logo img {
-    width: 150px;
-    margin-left: 20px;
+.logo h1 {
+    font-size: 30px;
+    margin: 20px auto;
+    color: rgb(12, 111, 241);
+    font-family: Tahoma;
+    padding: 20px;
+    font-weight: bold;
 }
 
 /* .container header h1 {
@@ -244,7 +248,7 @@ header {
 /* main/isi content */
 
 main {
-    background-color: rgb(6, 11, 85);
+    background-color: rgb(222, 236, 18);
 }
 
 .content {
@@ -340,6 +344,7 @@ main h2 {
 .card2 img {
     width: 100%;
     border-radius: 5px;
+    margin-top: 80px;
 
 }
 
